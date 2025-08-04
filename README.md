@@ -26,7 +26,7 @@ A API utilizada é pública e pode ser acessada em:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/avatar-api-desafio.git
+git clone https://github.com/jessicapersio/Desafio-7doc-Avatar?tab=readme-ov-file
 cd avatar-api-desafio
 ```
 2. Instale o módulo requests (caso ainda não tenha):
