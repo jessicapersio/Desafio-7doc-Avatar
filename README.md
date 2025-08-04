@@ -22,7 +22,7 @@ A API utilizada é pública e pode ser acessada em:
 
 ---
 
-## ▶ Como executar
+##  Como executar
 
 1. Clone este repositório:
 ```bash
