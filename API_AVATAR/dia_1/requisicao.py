@@ -5,7 +5,5 @@ def avatar_api ():
 
     response = requests.get(url)
 
-    print(response.status_code)
-    print(json.dumps(response.json(), indent=4))
+    return response
     
-avatar_api()

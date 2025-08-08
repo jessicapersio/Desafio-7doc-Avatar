@@ -1,0 +1,1 @@
+from dia_1 import avatar_api
